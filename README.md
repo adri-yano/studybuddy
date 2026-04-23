@@ -1,5 +1,6 @@
-#demo of my new project studybuddy
-<head>
-  <title>STUDYBUDDY</title>
-  
-</head>
+Study buddy
+
+
+it is an app that helps studying and makes it more interesting for students specially collage students 
+
+it contains different features and functionalities
